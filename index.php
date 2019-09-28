@@ -11,6 +11,7 @@
 // Auto_load implementation, include commons
 require('Bootstrap.php');
 //require('Bootstrap.php');
+//require('Bootstrap123.php');
 
 //support for commandline testing : pass required paramaters as CMD arguments
 
