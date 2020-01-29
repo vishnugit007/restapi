@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 //********************************
 // This is main application file. It's the onlyone that is aware of context (that is,
 // if we are running the script from server environemnt or CLI environment).
